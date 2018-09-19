@@ -1,0 +1,1 @@
+web: gunicorn djangoherokublog.wsgi --log-file -
